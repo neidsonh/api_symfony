@@ -18,9 +18,9 @@ Para rodar, é necessário possuir:
     + POST - http://localhost:[port]/order - criar o pedido
         +     {
                 "name_customer":"Segundo pedido",
-                "email":"neidson@gmail.com",
+                "email":"algumemail@gmail.com",
                 "cpf":"123.456.789-12",
-                "cep":"12608-360",
+                "cep":"12345-678",
                 "shipping":50,
                 "products":[
                     {
